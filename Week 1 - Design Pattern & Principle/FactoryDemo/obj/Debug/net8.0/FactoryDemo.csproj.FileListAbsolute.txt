@@ -1,0 +1,14 @@
+C:\Users\lenovo\FactoryDemo\obj\Debug\net8.0\FactoryDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\FactoryDemo\obj\Debug\net8.0\FactoryDemo.AssemblyInfoInputs.cache
+C:\Users\lenovo\FactoryDemo\obj\Debug\net8.0\FactoryDemo.AssemblyInfo.cs
+C:\Users\lenovo\FactoryDemo\obj\Debug\net8.0\FactoryDemo.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\FactoryDemo\bin\Debug\net8.0\FactoryDemo.exe
+C:\Users\lenovo\FactoryDemo\bin\Debug\net8.0\FactoryDemo.deps.json
+C:\Users\lenovo\FactoryDemo\bin\Debug\net8.0\FactoryDemo.runtimeconfig.json
+C:\Users\lenovo\FactoryDemo\bin\Debug\net8.0\FactoryDemo.dll
+C:\Users\lenovo\FactoryDemo\bin\Debug\net8.0\FactoryDemo.pdb
+C:\Users\lenovo\FactoryDemo\obj\Debug\net8.0\FactoryDemo.dll
+C:\Users\lenovo\FactoryDemo\obj\Debug\net8.0\refint\FactoryDemo.dll
+C:\Users\lenovo\FactoryDemo\obj\Debug\net8.0\FactoryDemo.pdb
+C:\Users\lenovo\FactoryDemo\obj\Debug\net8.0\FactoryDemo.genruntimeconfig.cache
+C:\Users\lenovo\FactoryDemo\obj\Debug\net8.0\ref\FactoryDemo.dll
