@@ -1,0 +1,14 @@
+C:\Users\lenovo\SearchDemo\bin\Debug\net8.0\SearchDemo.exe
+C:\Users\lenovo\SearchDemo\bin\Debug\net8.0\SearchDemo.deps.json
+C:\Users\lenovo\SearchDemo\bin\Debug\net8.0\SearchDemo.runtimeconfig.json
+C:\Users\lenovo\SearchDemo\bin\Debug\net8.0\SearchDemo.dll
+C:\Users\lenovo\SearchDemo\bin\Debug\net8.0\SearchDemo.pdb
+C:\Users\lenovo\SearchDemo\obj\Debug\net8.0\SearchDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\SearchDemo\obj\Debug\net8.0\SearchDemo.AssemblyInfoInputs.cache
+C:\Users\lenovo\SearchDemo\obj\Debug\net8.0\SearchDemo.AssemblyInfo.cs
+C:\Users\lenovo\SearchDemo\obj\Debug\net8.0\SearchDemo.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\SearchDemo\obj\Debug\net8.0\SearchDemo.dll
+C:\Users\lenovo\SearchDemo\obj\Debug\net8.0\refint\SearchDemo.dll
+C:\Users\lenovo\SearchDemo\obj\Debug\net8.0\SearchDemo.pdb
+C:\Users\lenovo\SearchDemo\obj\Debug\net8.0\SearchDemo.genruntimeconfig.cache
+C:\Users\lenovo\SearchDemo\obj\Debug\net8.0\ref\SearchDemo.dll
